@@ -1,4 +1,4 @@
-﻿# Dependencies
+# Dependencies
 node_modules/
 frontend/node_modules/
 venv/
@@ -8,8 +8,9 @@ backend/venv/
 # Build and caches
 dist/
 frontend/dist/
-__pycache__/
+**/__pycache__/
 *.py[cod]
+*.pyc
 .pytest_cache/
 
 # Databases & local files
